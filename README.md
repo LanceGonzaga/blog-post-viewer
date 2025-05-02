@@ -25,4 +25,4 @@ src/
 
 Vercel link
 
-[Live project link]()
+[Live project link](https://blog-post-viewer-dusky.vercel.app/)
